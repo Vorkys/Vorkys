@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vorkys
 - 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning Python & C#
+- 🌱 I’m currently learning C#, C, C++, Python, React and Vue.js
 - 💞️ I’m looking to collaborate on many things
 - 📫 How to reach me, yet to see
 
